@@ -1,5 +1,5 @@
 # Dasmoto's-Arts-and Crafts website
-Codecademy html and css project
+A Codecademy html and css project
 <br>
 <br>
 Overview <br>
