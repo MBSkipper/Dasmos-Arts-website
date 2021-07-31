@@ -3,5 +3,52 @@
     <link rel=stylesheet href=stylesheet.css>
   </head>
     <body>
+    <nav>
+        <ul>
+           <li><a href="Brushes">Blog</a></li>
+           <li><a href="Paints">Media</a></li>
+           <li><a href="Frames">About</a></li>
+        </ul>
+      </nav>
+     <header>
+       <h1>Dasmos Arts and Crafts</h1>
+     </header>
+     <main>
+       <section id="brushes">
+         <article>
+           <h2>Brushes</h2>
+           <p>
+           </p>
+            
+         </article>
+
+       </section>
+       
+       <figure>
+         <img src="https:ABC.jpeg">
+         <figcaption> This is the caption script.</figcaption>
+       </figure>
+       
+       <aside>
+         <p> This is the aside script.
+         </p>
+
+       <section id="paints">
+         <article>
+           <h2>Paints</h2>
+           <p>While the view in the city is beautiful, the sounds are not as lovely. Below you'll see an example of the view and the sounds you'll deal with in NYC on a daily basis.
+           </p>
+         </article>
+       </section>
+       
+       <section id="frames">
+         <article>
+           <h2>Frames</h2>
+           <p>While the view in the city is beautiful, the sounds are not as lovely. Below you'll see an example of the view and the sounds you'll deal with in NYC on a daily basis.
+           </p>
+         </article>
+       </section>
+     </main>
     
     </body>
+    
