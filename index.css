@@ -1,0 +1,68 @@
+
+body {
+    min-width: 20px;
+    max-width: 1500px;
+    overflow: scroll;
+    border-width: 1px;
+    margin: 50px 20px 1px 5px;
+    padding: 2px 2px 2px 2px;
+    background-color: white;
+    text-align: left;
+}
+
+
+header {
+    height: 230px;
+    background-image: url(/Users/sylviaosborn/PROJECTS/Dasmotos/resources/pattern.webp);
+    margin-bottom: 60px;
+}
+
+h1 {
+    height: 450px;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki
+}
+
+h2 {
+    height: 42px;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+    color: black
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: normal;
+    color: black
+}
+
+span {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    color: blue
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}       
